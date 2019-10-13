@@ -1,0 +1,20 @@
+
+#imagen{
+    border: black 3px solid;
+  overflow: auto;
+  background-color: blanchedalmond;
+}
+#descripcion{
+    font-family: 'Franklin Gothic Medium';
+}
+.Subtitulos{
+font-family: Verdana;
+font-size: xx-large;
+font-style: italic;
+}
+#habilidades{
+    font-family: 'Lucida Sans';
+}
+#hobbies{
+    font-family: Impact;
+}
